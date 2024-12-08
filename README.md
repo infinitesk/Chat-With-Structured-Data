@@ -14,8 +14,4 @@ This repository hosts the code for a Streamlit-based application that allows use
 ### Prerequisites
 - Required libraries listed in `requirements.txt`
 
-Technologies Used 🧰
-Streamlit: For creating an intuitive and interactive UI.
-LangChain: To manage LLM integrations and create pandas dataframe agents.
-LLMs: Integrated ChatGroq and ChatOllama for powerful conversational capabilities.
-Python: For file handling, data manipulation, and backend logic.
+
